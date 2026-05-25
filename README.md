@@ -15,3 +15,5 @@ A responsive educational institute website built using HTML and CSS.
 
 ## Author
 Rohit Sahu
+## Live Demo
+https://rohitsahu-developer.github.io/IIP-Website/
