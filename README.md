@@ -7,23 +7,22 @@ https://rohitsahu-developer.github.io/IIP-Website/
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home](home.png)
 
 ### About Page
-![About Page](screenshots/about.png)
+![About](about.png)
 
-### Courses Page
-![Courses Page](screenshots/course.png)
+### Course Page
+![Course](course.png)
 
 ### Gallery Page
-![Gallery Page](screenshots/gallery.png)
+![Gallery](gallery.png)
 
 ### Contact Page
-![Contact Page](screenshots/contact.png)
-
+![Contact](contact.png)
 ---
 
 ## 🛠️ Technologies Used
